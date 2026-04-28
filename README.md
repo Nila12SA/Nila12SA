@@ -10,8 +10,7 @@
 ---
 
 ## 👨‍💻 About Me
-
-I'm a passionate **Software Engineer** specializing in building scalable web applications using **.NET Core**, **Angular**, and **React**. With experience in developing microservices architectures and RESTful APIs, I focus on creating efficient, maintainable, and user-centric solutions.
+I'm a passionate **UI/UX Designer** focused on creating intuitive and user-centered digital experiences. I specialize in designing modern, responsive interfaces using **Figma**, with strong attention to usability, accessibility, and visual consistency. With experience in wireframing, prototyping, and user research, I aim to deliver designs that are both functional and visually engaging.
 
 - 🔭 I am an undergraduate student studying software engineering at **University of Kelaniya**(GPA:3.56/4.00)
 - 💬 Ask me about **java,springboot, React**
@@ -52,6 +51,10 @@ I'm a passionate **Software Engineer** specializing in building scalable web app
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### **Design Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ---
 
 ## 📊 GitHub Statistics
