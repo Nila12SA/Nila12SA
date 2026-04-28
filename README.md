@@ -1,7 +1,6 @@
 # Hi 👋, I'm Nilani
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=UI/UX Designer+from+Sri+Lanka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer+from+Sri+Lanka" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -91,10 +90,10 @@ I'm a passionate **Software Engineer** specializing in building scalable web app
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Nia12SA">
+  <a href="https://github.com/Nila12SA">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://medium.com/@snilasubram12">
+  <a href="https://medium.com/@nilasubram12">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="mailto:nilasubram12@gmail.com">
