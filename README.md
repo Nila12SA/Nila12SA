@@ -1,11 +1,11 @@
 # Hi 👋, I'm Nilani
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=Software+Engineer+from+Sri+Lanka;Full+Stack+.NET+Developer;Angular+%26+React+Specialist;Building+Scalable+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=UI/UX Designer+from+Sri+Lanka" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SULEGJAN0201&color=0891b2" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Nila12SA&color=0891b2" alt="Profile views" />
 </p>
 
 ---
@@ -58,8 +58,8 @@ I'm a passionate **Software Engineer** specializing in building scalable web app
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SULEGJAN0201&show_icons=true&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SULEGJAN0201&layout=compact&title_color=0891b2&text_color=000000&bg_color=ffffff&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nila12SA&show_icons=true&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nila12SA&layout=compact&title_color=0891b2&text_color=000000&bg_color=ffffff&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ I'm a passionate **Software Engineer** specializing in building scalable web app
 
 ## 📈 Contribution Graph
 
-![Sulegjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SULEGJAN0201&theme=github-compact&hide_border=true&bg_color=ffffff&color=0891b2&line=0891b2&point=000000)
+![Nilani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nila12SA&theme=github-compact&hide_border=true&bg_color=ffffff&color=0891b2&line=0891b2&point=000000)
 
 ---
 
